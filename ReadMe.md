@@ -1,6 +1,71 @@
-# 💫 About Me:
+## About Me
 
-Hi, I’m Deep Patel.<br><br>I’m a Software Engineer and Data Professional based in New York. I build secure backend systems, scalable data pipelines, and machine learning driven decision platforms. My work sits at the intersection of software engineering and applied analytics, with a strong focus on performance, reliability, and explainability.<br><br>I’ve engineered role based REST APIs using Spring Boot, built full stack applications with Node.js and React, and developed end to end credit risk systems using Python and PostgreSQL. I think in terms of system design, data flow, security boundaries, and measurable impact. I care about clean architecture, modular code, and building systems that are observable and maintainable at scale.<br><br>Beyond shipping features, I focus on turning data into defensible decisions. I work with calibrated models, evaluation metrics like ROC AUC and Brier Score, and structured decision rules that translate predictions into clear business outcomes.<br><br>What I’m Looking For<br><br>- I’m looking for opportunities where I can:<br><br>- Build scalable backend and data systems<br><br>- Work on technically rigorous problems with real world impact<br><br>- Collaborate with strong engineers and product thinkers<br><br>- Contribute to ML driven or data intensive products<br><br>- Take ownership of systems and improve them over time<br><br>I’m especially interested in backend engineering, data engineering, and applied machine learning roles.<br><br><br>## How I Collaborate<br><br>I enjoy working in teams where technical discussions are thoughtful and evidence based. I value clean code reviews, clear documentation, and strong alignment between product and engineering. I communicate directly, document assumptions, and take responsibility for the systems I build.<br><br><br>Fun & Interests<br><br>Outside of work, I enjoy building side projects, exploring new tools, and analyzing interesting datasets. I like staying active, training consistently, and exploring coffee spots and tech events around the city. I’m naturally curious and enjoy learning how systems work, whether they’re technical, financial, or behavioral.
+Hi, I’m Deep Patel — a Software Engineer and Data Professional based in New York, currently pursuing an **MS in Data Science at Boston University**.
+
+I specialize in building **data-driven systems** that transform information into actionable business insights. My work sits at the intersection of **backend engineering, data engineering, and applied machine learning**, with a focus on performance, reliability, and explainability.
+
+I’ve:
+- Engineered **role-based REST APIs** using Spring Boot  
+- Built **full-stack applications** with Node.js and React  
+- Developed **end-to-end credit risk and ML systems** using Python and PostgreSQL  
+- Designed and maintained **scalable data pipelines** and decision platforms  
+
+I think in terms of **system design, data flow, security boundaries, and measurable impact**. I care deeply about **clean architecture, modular code, and systems that are observable and maintainable at scale**.
+
+---
+
+### Data & Machine Learning Focus
+
+Beyond shipping features, I focus on turning data into defensible decisions.
+
+I work with:
+- **Machine learning models**: calibrated, interpretable, and reliable  
+- **Evaluation metrics**: ROC-AUC, Brier Score, and business-aligned KPIs  
+- **Structured decision rules** that translate predictions into clear outcomes  
+
+I aim for clarity in every system:
+- Explicit assumptions  
+- Measurable performance  
+- Transparent, explainable logic  
+
+---
+
+### What I'm Looking For
+
+I’m seeking opportunities where I can:
+
+- Build **scalable data pipelines and ML platforms**  
+- Solve **technically rigorous, real-world problems**  
+- Contribute to **data-intensive products and decision systems**  
+- Collaborate with strong engineers, analysts, and data scientists  
+- Take ownership of systems and continuously improve them  
+
+I’m especially interested in roles like **Data Engineer, Data Scientist, Machine Learning Engineer, and Analytics Engineer**.
+
+---
+
+### How I Collaborate
+
+I thrive in teams where technical discussions are **evidence-based and data-driven**.
+
+I value:
+- Clean, structured code reviews  
+- Clear documentation and reproducibility  
+- Alignment between product, engineering, and data teams  
+- Transparent communication and accountability  
+
+I document assumptions, design defensible systems, and ensure solutions are scalable and maintainable.
+
+---
+
+### Beyond Work
+
+Outside of engineering and academics:
+
+- I build **side projects and experiment with new data tools**  
+- I analyze **interesting datasets** to explore insights  
+- I stay active and explore the city’s coffee spots and tech events  
+- I enjoy understanding **how complex systems work**, whether technical, financial, or behavioral
 
 # 💻 Tech Stack:
 
